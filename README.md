@@ -16,6 +16,12 @@ This is probably bad code, but it was an excuse to write some Nim.
 ## Compile
 
 ```
+nimble build
+```
+
+## Install
+
+```
 nimble install
 ```
 
