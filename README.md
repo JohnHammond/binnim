@@ -13,16 +13,10 @@ Perhaps one day this will include more representations of data, but for now, thi
 This is probably bad code, but it was an excuse to write some Nim. 
 
 
-## Dependencies
-
-```
-nimble install cligen
-```
-
 ## Compile
 
 ```
-nim c binnim.nim
+nimble install
 ```
 
 ## Usage
