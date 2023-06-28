@@ -28,7 +28,7 @@ nim c binnim.nim
 ## Usage
 
 ```
-./binnim
+./binnim --help
 
 Usage:
   binnim [optional-params] [filenames: string...]
